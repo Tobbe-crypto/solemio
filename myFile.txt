@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
+Hello:)
 Github hälsar inte
-=======
-tittut
->>>>>>> mybranch
+
